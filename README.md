@@ -40,7 +40,4 @@ The project demonstrates effective handling of class imbalance and improved clas
 ## Contributing:
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## License:
-This project is licensed under the MIT License.
-
 ---
